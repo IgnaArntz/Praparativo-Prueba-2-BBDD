@@ -297,8 +297,4 @@ BEGIN
 END;
 /
 
--- ============================================================================
--- FIN DEL ARCHIVO
--- Nota: Los ejercicios F, G y H requieren registros de prueba en ORDENES y
--- DETALLE_ORDENES si deseas probar resultados distintos de cero.
--- ============================================================================
+
