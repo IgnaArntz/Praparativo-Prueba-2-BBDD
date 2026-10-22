@@ -1,17 +1,6 @@
 -- ============================================================================
 -- PREPARACIÓN EVALUACIÓN PARCIAL 2
 -- Taller de Bases de Datos - Oracle PL/SQL
--- Archivo compatible con Oracle SQL Developer
---
--- IMPORTANTE:
--- 1. Ejecutar el archivo completo con F5 (Run Script) en SQL Developer.
--- 2. Para ver los mensajes, revisar la pestaña "Salida de Script".
--- 3. Este script crea tablas y objetos. Si ya existen, Oracle informará errores
---    de objeto duplicado; en ese caso, usar un esquema limpio o eliminar los
---    objetos existentes antes de ejecutar nuevamente.
--- ============================================================================
-
-SET SERVEROUTPUT ON;
 
 -- ============================================================================
 -- EJERCICIO A: Procedimiento que imprime un mensaje fijo
